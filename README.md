@@ -1,7 +1,7 @@
 # i3-dotfiles
 My Arch Linux i3 Dotfiles
 
-Terminal: URxvt
+Terminal: URxvt with [urxvt-perls](https://archlinux.org/packages/community/any/urxvt-perls/)
 
 Terminal Font: [Rissole](https://addy-dclxvi.github.io/post/bitmap-fonts/)
 
