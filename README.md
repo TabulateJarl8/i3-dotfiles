@@ -20,3 +20,5 @@ Calculator: [ImaginaryInfinity Calculator](https://gitlab.com/TurboWafflz/Imagin
 File manager: Nemo
 
 Background: File named `desktop.jpg` in home directory
+
+![Screenshot](scrot.png)
