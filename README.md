@@ -9,6 +9,10 @@ WM: i3-gaps
 
 DM: ly
 
+Default Shell: bash
+
+URxvt Shell: fish
+
 Icon Pack: [Hey icons dark](https://store.kde.org/p/1330383/)
 
 Calculator: [ImaginaryInfinity Calculator](https://gitlab.com/TurboWafflz/ImaginaryInfinity-Calculator)
